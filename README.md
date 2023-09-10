@@ -17,6 +17,6 @@ Sometimes I make public repositories on github for my portfolio and hopefully I'
 
 ### My links
 
-[![My github]("https://skillicons.dev/icons?i=github")](https://github.com/arttostog) [![My personal site](https://skillicons.dev/icons?i=html)](https://arttostog.github.io/) [![My discord](https://skillicons.dev/icons?i=discord")](https://discordapp.com/users/558249298089738241)
+[![My personal site](https://skillicons.dev/icons?i=github)](https://github.com/arttostog) [![My personal site](https://skillicons.dev/icons?i=html)](https://arttostog.github.io/) [![My personal site](https://skillicons.dev/icons?i=discord)](https://discordapp.com/users/558249298089738241)
 
 </div>
