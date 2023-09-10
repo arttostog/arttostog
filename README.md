@@ -13,7 +13,7 @@ Sometimes I make public repositories on github for my portfolio and hopefully I'
 
 ### My current skills
 
-![My current skills](https://skillicons.dev/icons?i=java,spring,mysql,gradle,maven,cs,arduino,git,docker,bots&perline=5)
+[![My current skills](https://skillicons.dev/icons?i=java,spring,mysql,gradle,maven,cs,arduino,git,docker,bots&perline=5)](https://github.com/arttostog)
 
 ### My links
 
