@@ -11,6 +11,8 @@ Sometimes I make public repositories on github for my portfolio and hopefully I'
 
 <div align="center">
 
+![arttostog's GitHub stats](https://github-readme-stats.vercel.app/api?username=arttostog&show_icons=true&theme=vision-friendly-dark)
+
 ### My current skills
 
 [![My current skills](https://skillicons.dev/icons?i=java,spring,mysql,gradle,maven,cs,arduino,git,docker,bots&perline=5)](https://github.com/arttostog)
