@@ -19,8 +19,8 @@ Sometimes I make public repositories on github for my portfolio and hopefully I'
 
 [![My personal site](https://skillicons.dev/icons?i=github)](https://github.com/arttostog) [![My personal site](https://skillicons.dev/icons?i=html)](https://arttostog.github.io/) [![My personal site](https://skillicons.dev/icons?i=discord)](https://discordapp.com/users/558249298089738241)
 
-### My github stats card
+### My GitHub stats card
 
-https://github-readme-stats.vercel.app/api?username=arttostog&show_icons=true&theme=vision-friendly-dark
+![arttostog's GitHub stats](https://github-readme-stats.vercel.app/api?username=arttostog&show_icons=true&theme=vision-friendly-dark)
 
 </div>
