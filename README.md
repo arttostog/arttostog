@@ -6,7 +6,7 @@
 
 </div>
 
-**I'm arttostog (he/him)** - I want to become a Junior Java Developer and that's why i'm studying Java.
+**I'm arttostog (he/him)** - I want to become a Junior Java Developer.
 Sometimes I make public repositories on github for my portfolio and hopefully I'll still need them in the future.
 
 <div align="center">
